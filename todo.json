@@ -1,0 +1,11 @@
+{
+    "call dad": {
+        "completed": false
+    },
+    "buy shoes": {
+        "completed": true
+    },
+    "buy mouse": {
+        "completed": true
+    }
+}
